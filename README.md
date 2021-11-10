@@ -21,5 +21,5 @@ Java 8
 #### Estrutura
 
 1.  Foi criado dois arquivos class : um da classe Sonda (contendo métodos), e outro com o método Main.
-2. Contém arrays, orientação a objeto, conversões de Strings para Char e Strings para Inteiros.
+2. Contém arrays, orientação a objeto, conversões de Strings para Char e Strings para Inteiros, laços de repetição
 3. A entrada de dados e a saída de dados são feitas pelo terminal
