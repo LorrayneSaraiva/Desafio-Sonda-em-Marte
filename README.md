@@ -31,6 +31,12 @@ Java 8
      - Laços de repetição para corrigir possíveis erros da entrada de dados correspondentes a posição inicial da Sonda;
 5. A entrada de dados e a saída de dados são feitas pelo terminal.
 
+#### Status
+Concluído
+
+#### Autor 
+Lorrayne Saraiva dos Santos
+
 
 
 
